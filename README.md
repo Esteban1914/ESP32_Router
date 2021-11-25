@@ -1,5 +1,5 @@
-# ESP32 RouterProyecy
+# ESP32 RouterProyect
 
-  Desarollo de un dispositivo para el control del internet sin usiarios    
+Desarollo de un dispositivo a partir del ESP32 para controlar el internet sin usiarios, en un router.    
 
 
